@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/ROA.Foundation/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ROA.Foundation/static/js/main.3469c187.chunk.js",
-    "main.js.map": "/ROA.Foundation/static/js/main.3469c187.chunk.js.map",
+    "main.css": "/ROA.Foundation/static/css/main.dc7fc22d.chunk.css",
+    "main.js": "/ROA.Foundation/static/js/main.103cdadc.chunk.js",
+    "main.js.map": "/ROA.Foundation/static/js/main.103cdadc.chunk.js.map",
     "runtime-main.js": "/ROA.Foundation/static/js/runtime-main.6d2cdb20.js",
     "runtime-main.js.map": "/ROA.Foundation/static/js/runtime-main.6d2cdb20.js.map",
-    "static/js/2.8145763b.chunk.js": "/ROA.Foundation/static/js/2.8145763b.chunk.js",
-    "static/js/2.8145763b.chunk.js.map": "/ROA.Foundation/static/js/2.8145763b.chunk.js.map",
+    "static/js/2.de5ea9ab.chunk.js": "/ROA.Foundation/static/js/2.de5ea9ab.chunk.js",
+    "static/js/2.de5ea9ab.chunk.js.map": "/ROA.Foundation/static/js/2.de5ea9ab.chunk.js.map",
     "index.html": "/ROA.Foundation/index.html",
-    "precache-manifest.291cb8ef7184baf03a3ccbaee8dee5d3.js": "/ROA.Foundation/precache-manifest.291cb8ef7184baf03a3ccbaee8dee5d3.js",
+    "precache-manifest.12f4efd5ff6595f7318033f831ae1e20.js": "/ROA.Foundation/precache-manifest.12f4efd5ff6595f7318033f831ae1e20.js",
     "service-worker.js": "/ROA.Foundation/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ROA.Foundation/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8145763b.chunk.js.LICENSE.txt": "/ROA.Foundation/static/js/2.8145763b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ROA.Foundation/static/media/logo.5d5d9eef.svg"
+    "static/css/main.dc7fc22d.chunk.css.map": "/ROA.Foundation/static/css/main.dc7fc22d.chunk.css.map",
+    "static/js/2.de5ea9ab.chunk.js.LICENSE.txt": "/ROA.Foundation/static/js/2.de5ea9ab.chunk.js.LICENSE.txt",
+    "static/media/Whitepaper_ROASc-Draft-4.pdf": "/ROA.Foundation/static/media/Whitepaper_ROASc-Draft-4.2e68aeef.pdf",
+    "static/media/icon-whitepaper.svg": "/ROA.Foundation/static/media/icon-whitepaper.c37d9a8b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d2cdb20.js",
-    "static/js/2.8145763b.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3469c187.chunk.js"
+    "static/js/2.de5ea9ab.chunk.js",
+    "static/css/main.dc7fc22d.chunk.css",
+    "static/js/main.103cdadc.chunk.js"
   ]
 }
