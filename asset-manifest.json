@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.1afa6de0.chunk.css",
-    "main.js": "/static/js/main.0662356e.chunk.js",
-    "main.js.map": "/static/js/main.0662356e.chunk.js.map",
+    "main.css": "/static/css/main.af1e0fb7.chunk.css",
+    "main.js": "/static/js/main.7f043376.chunk.js",
+    "main.js.map": "/static/js/main.7f043376.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4565991.js",
     "runtime-main.js.map": "/static/js/runtime-main.f4565991.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.08b1ff70.chunk.js": "/static/js/2.08b1ff70.chunk.js",
-    "static/js/2.08b1ff70.chunk.js.map": "/static/js/2.08b1ff70.chunk.js.map",
+    "static/js/2.ca375e50.chunk.js": "/static/js/2.ca375e50.chunk.js",
+    "static/js/2.ca375e50.chunk.js.map": "/static/js/2.ca375e50.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2d94361cd02c41c1a9641925b1eda076.js": "/precache-manifest.2d94361cd02c41c1a9641925b1eda076.js",
+    "precache-manifest.d67d1e86d26530e6b7b3645b26d6edf0.js": "/precache-manifest.d67d1e86d26530e6b7b3645b26d6edf0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1afa6de0.chunk.css.map": "/static/css/main.1afa6de0.chunk.css.map",
-    "static/js/2.08b1ff70.chunk.js.LICENSE.txt": "/static/js/2.08b1ff70.chunk.js.LICENSE.txt",
+    "static/css/main.af1e0fb7.chunk.css.map": "/static/css/main.af1e0fb7.chunk.css.map",
+    "static/js/2.ca375e50.chunk.js.LICENSE.txt": "/static/js/2.ca375e50.chunk.js.LICENSE.txt",
     "static/media/Whitepaper_ROASc-Draft-4.pdf": "/static/media/Whitepaper_ROASc-Draft-4.2e68aeef.pdf",
-    "static/media/banner.jpg": "/static/media/banner.d9137093.jpg"
+    "static/media/banner.jpg": "/static/media/banner.d9137093.jpg",
+    "static/media/drop-off-school.jpg": "/static/media/drop-off-school.9c7ba7fb.jpg",
+    "static/media/get-cert.jpg": "/static/media/get-cert.1724bc6d.jpg",
+    "static/media/individuality.jpg": "/static/media/individuality.569b4ae3.jpg",
+    "static/media/victorian-classroom.jpg": "/static/media/victorian-classroom.e75b2715.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f4565991.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.08b1ff70.chunk.js",
-    "static/css/main.1afa6de0.chunk.css",
-    "static/js/main.0662356e.chunk.js"
+    "static/js/2.ca375e50.chunk.js",
+    "static/css/main.af1e0fb7.chunk.css",
+    "static/js/main.7f043376.chunk.js"
   ]
 }
