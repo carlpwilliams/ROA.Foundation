@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carlpwilliams/ROA.Foundation/static/css/main.5f361e03.chunk.css",
+    "main.js": "/carlpwilliams/ROA.Foundation/static/js/main.567acdd7.chunk.js",
+    "main.js.map": "/carlpwilliams/ROA.Foundation/static/js/main.567acdd7.chunk.js.map",
+    "runtime-main.js": "/carlpwilliams/ROA.Foundation/static/js/runtime-main.1d878888.js",
+    "runtime-main.js.map": "/carlpwilliams/ROA.Foundation/static/js/runtime-main.1d878888.js.map",
+    "static/js/2.8145763b.chunk.js": "/carlpwilliams/ROA.Foundation/static/js/2.8145763b.chunk.js",
+    "static/js/2.8145763b.chunk.js.map": "/carlpwilliams/ROA.Foundation/static/js/2.8145763b.chunk.js.map",
+    "index.html": "/carlpwilliams/ROA.Foundation/index.html",
+    "precache-manifest.e075f45b22e9c375ac6d18d1205dc328.js": "/carlpwilliams/ROA.Foundation/precache-manifest.e075f45b22e9c375ac6d18d1205dc328.js",
+    "service-worker.js": "/carlpwilliams/ROA.Foundation/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/carlpwilliams/ROA.Foundation/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8145763b.chunk.js.LICENSE.txt": "/carlpwilliams/ROA.Foundation/static/js/2.8145763b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/carlpwilliams/ROA.Foundation/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d878888.js",
+    "static/js/2.8145763b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.567acdd7.chunk.js"
+  ]
+}
