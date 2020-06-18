@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ROA.Foundation/static/css/main.dc7fc22d.chunk.css",
-    "main.js": "/ROA.Foundation/static/js/main.103cdadc.chunk.js",
-    "main.js.map": "/ROA.Foundation/static/js/main.103cdadc.chunk.js.map",
-    "runtime-main.js": "/ROA.Foundation/static/js/runtime-main.6d2cdb20.js",
-    "runtime-main.js.map": "/ROA.Foundation/static/js/runtime-main.6d2cdb20.js.map",
-    "static/js/2.de5ea9ab.chunk.js": "/ROA.Foundation/static/js/2.de5ea9ab.chunk.js",
-    "static/js/2.de5ea9ab.chunk.js.map": "/ROA.Foundation/static/js/2.de5ea9ab.chunk.js.map",
-    "index.html": "/ROA.Foundation/index.html",
-    "precache-manifest.af9a36d43f2d87938e6c2af02c438388.js": "/ROA.Foundation/precache-manifest.af9a36d43f2d87938e6c2af02c438388.js",
-    "service-worker.js": "/ROA.Foundation/service-worker.js",
-    "static/css/main.dc7fc22d.chunk.css.map": "/ROA.Foundation/static/css/main.dc7fc22d.chunk.css.map",
-    "static/js/2.de5ea9ab.chunk.js.LICENSE.txt": "/ROA.Foundation/static/js/2.de5ea9ab.chunk.js.LICENSE.txt",
-    "static/media/Whitepaper_ROASc-Draft-4.pdf": "/ROA.Foundation/static/media/Whitepaper_ROASc-Draft-4.2e68aeef.pdf",
-    "static/media/icon-whitepaper.svg": "/ROA.Foundation/static/media/icon-whitepaper.c37d9a8b.svg"
+    "main.css": "/static/css/main.dc7fc22d.chunk.css",
+    "main.js": "/static/js/main.8c788450.chunk.js",
+    "main.js.map": "/static/js/main.8c788450.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4565991.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4565991.js.map",
+    "static/js/2.de5ea9ab.chunk.js": "/static/js/2.de5ea9ab.chunk.js",
+    "static/js/2.de5ea9ab.chunk.js.map": "/static/js/2.de5ea9ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.68fd70abac5ea4e7503533d8aa22b714.js": "/precache-manifest.68fd70abac5ea4e7503533d8aa22b714.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dc7fc22d.chunk.css.map": "/static/css/main.dc7fc22d.chunk.css.map",
+    "static/js/2.de5ea9ab.chunk.js.LICENSE.txt": "/static/js/2.de5ea9ab.chunk.js.LICENSE.txt",
+    "static/media/Whitepaper_ROASc-Draft-4.pdf": "/static/media/Whitepaper_ROASc-Draft-4.2e68aeef.pdf",
+    "static/media/icon-whitepaper.svg": "/static/media/icon-whitepaper.c37d9a8b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d2cdb20.js",
+    "static/js/runtime-main.f4565991.js",
     "static/js/2.de5ea9ab.chunk.js",
     "static/css/main.dc7fc22d.chunk.css",
-    "static/js/main.103cdadc.chunk.js"
+    "static/js/main.8c788450.chunk.js"
   ]
 }
