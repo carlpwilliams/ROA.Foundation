@@ -1,0 +1,72 @@
+
+
+@font-face {
+  font-family: "Gotham";
+  src: local("Gotham"), url(/fonts/Gotham-Font/gothamBook.ttf) format("ttf");
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+h2,
+.h2 {
+  font-size: 2rem;
+}
+
+$theme-colors: (
+  // "primary": #03a9f4,
+    "primary": #6cc091,
+  "primary-lighter": #1987c9,
+  "logo-gradient-1": #1987c9,
+  "logo-gradient-2": #344194,
+  "navy": #1987c9,
+  "secondary": #3d9ad0,
+  "secondary-lighter": #65afdb,
+  "tiarsary": #a01923,
+  "success": #0fd36f
+);
+
+%primary-gradient-right {
+  background: linear-gradient(
+    to right,
+    var(--logo-gradient-1),
+    var(--logo-gradient-2)
+  );
+}
+
+%primary-gradient-left {
+  background: linear-gradient(
+    to left,
+    var(--logo-gradient-1),
+    var(--logo-gradient-2)
+  );
+}
+
+.bg-gradient {
+  @extend %primary-gradient-right;
+}
+
+.bg-gradient-right {
+  @extend %primary-gradient-right;
+}
+
+.bg-gradient-left {
+  @extend %primary-gradient-left;
+}
+
+/* import bootstrap to set changes */
+
+@import "~bootstrap/scss/bootstrap";
+
+body{
+  font-family: "Gotham", "Open Sans", sans-serif;
+}
