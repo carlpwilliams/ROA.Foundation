@@ -1,5 +1,3 @@
-
-
 @font-face {
   font-family: "Gotham";
   src: local("Gotham"), url(/fonts/Gotham-Font/gothamBook.ttf) format("ttf");
@@ -67,6 +65,16 @@ $theme-colors: (
 
 @import "~bootstrap/scss/bootstrap";
 
-body{
+body {
   font-family: "Gotham", "Open Sans", sans-serif;
 }
+
+.round-image {
+  display: inline-block;
+  border-radius: 100%;
+  overflow: hidden;
+  max-width: 200px;
+  
+}
+
+.no-border{border:none !important}

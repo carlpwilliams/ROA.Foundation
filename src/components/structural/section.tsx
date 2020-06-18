@@ -4,7 +4,7 @@ export enum sectionType {
     full,
     banner
 }
-type Props = { children: any, className?: any; type?: sectionType, bannerImage?: any; }
+type Props = { children: any, className?: any; type?: sectionType, bannerImage?: any;  }
 export class Section extends Component<Props> {
     render() {
         return (
@@ -12,7 +12,6 @@ export class Section extends Component<Props> {
                 <div className="inner">
                     {this.props.children}
                 </div>
-
             </div>
         )
     }
@@ -24,7 +23,7 @@ export class Section extends Component<Props> {
                 ret += "container-fluid banner ";
                 break;
             default:
-                ret += "mt-5  container ";
+                ret += "pt-5 pb-5";
         }
 
         return `${ret} ${this.props.className}`;
