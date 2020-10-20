@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3b864fc.chunk.css",
-    "main.js": "/static/js/main.2b8af34d.chunk.js",
-    "main.js.map": "/static/js/main.2b8af34d.chunk.js.map",
+    "main.css": "/static/css/main.c39ba037.chunk.css",
+    "main.js": "/static/js/main.76f6bdbc.chunk.js",
+    "main.js.map": "/static/js/main.76f6bdbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4565991.js",
     "runtime-main.js.map": "/static/js/runtime-main.f4565991.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c67d1bc2.chunk.js": "/static/js/2.c67d1bc2.chunk.js",
-    "static/js/2.c67d1bc2.chunk.js.map": "/static/js/2.c67d1bc2.chunk.js.map",
+    "static/js/2.ea853bc1.chunk.js": "/static/js/2.ea853bc1.chunk.js",
+    "static/js/2.ea853bc1.chunk.js.map": "/static/js/2.ea853bc1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.aaf0e670c6748e6497dfce6b2726c0e0.js": "/precache-manifest.aaf0e670c6748e6497dfce6b2726c0e0.js",
+    "precache-manifest.c1462a97d612aa6e80105217c4ae6ad0.js": "/precache-manifest.c1462a97d612aa6e80105217c4ae6ad0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c3b864fc.chunk.css.map": "/static/css/main.c3b864fc.chunk.css.map",
-    "static/js/2.c67d1bc2.chunk.js.LICENSE.txt": "/static/js/2.c67d1bc2.chunk.js.LICENSE.txt",
+    "static/css/main.c39ba037.chunk.css.map": "/static/css/main.c39ba037.chunk.css.map",
+    "static/js/2.ea853bc1.chunk.js.LICENSE.txt": "/static/js/2.ea853bc1.chunk.js.LICENSE.txt",
     "static/media/Whitepaper_ROASc-Draft-4.pdf": "/static/media/Whitepaper_ROASc-Draft-4.2e68aeef.pdf",
     "static/media/banner.jpg": "/static/media/banner.d9137093.jpg",
     "static/media/drop-off-school.jpg": "/static/media/drop-off-school.9c7ba7fb.jpg",
     "static/media/get-cert.jpg": "/static/media/get-cert.1724bc6d.jpg",
     "static/media/individuality.jpg": "/static/media/individuality.569b4ae3.jpg",
+    "static/media/online-class.jpg": "/static/media/online-class.f43b64d3.jpg",
+    "static/media/talent.jpg": "/static/media/talent.5e417e31.jpg",
     "static/media/victorian-classroom.jpg": "/static/media/victorian-classroom.e75b2715.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f4565991.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c67d1bc2.chunk.js",
-    "static/css/main.c3b864fc.chunk.css",
-    "static/js/main.2b8af34d.chunk.js"
+    "static/js/2.ea853bc1.chunk.js",
+    "static/css/main.c39ba037.chunk.css",
+    "static/js/main.76f6bdbc.chunk.js"
   ]
 }
