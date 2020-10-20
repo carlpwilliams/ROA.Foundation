@@ -14,6 +14,14 @@ img {
   height: auto;
   max-width: 100%;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'montserrat';
+}
 
 h2,
 .h2 {
@@ -22,7 +30,7 @@ h2,
 
 $theme-colors: (
   // "primary": #03a9f4,
-    "primary": #6cc091,
+  "primary": #1ca9f0,
   "primary-lighter": #1987c9,
   "logo-gradient-1": #1987c9,
   "logo-gradient-2": #344194,
@@ -74,7 +82,8 @@ body {
   border-radius: 100%;
   overflow: hidden;
   max-width: 200px;
-  
 }
 
-.no-border{border:none !important}
+.no-border {
+  border: none !important;
+}

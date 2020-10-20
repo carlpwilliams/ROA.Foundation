@@ -4,11 +4,11 @@ export enum sectionType {
     full,
     banner
 }
-type Props = { children: any, className?: any; type?: sectionType, bannerImage?: any;  }
+type Props = { children: any, className?: any; type?: sectionType, bannerImage?: any; style?:any }
 export class Section extends Component<Props> {
     render() {
         return (
-            <div className={this.getClassname()} style={{ backgroundImage: `url(${this.props.bannerImage})` }}>
+            <div className={this.getClassname()} style={{ backgroundImage: `url(${this.props.bannerImage})`, ...this.props.style }}>
                 <div className="inner">
                     {this.props.children}
                 </div>

@@ -15,6 +15,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-180920500-1');
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
