@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a133380c83479add4b9f204d6689f76f",
+    "revision": "829e3cb5d814c13bbf30321296a02cc3",
     "url": "/index.html"
   },
   {
-    "revision": "7e4162f93f51af7ec06e",
+    "revision": "0174ffe612c657bbeef5",
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "72c6d68e0956ee3ca5f6",
+    "revision": "083b4bd0a24311f650b9",
     "url": "/static/css/main.fe2afc01.chunk.css"
   },
   {
-    "revision": "7e4162f93f51af7ec06e",
-    "url": "/static/js/2.ea853bc1.chunk.js"
+    "revision": "0174ffe612c657bbeef5",
+    "url": "/static/js/2.64f69a26.chunk.js"
   },
   {
     "revision": "c9d3a1038a72847d89c1bda449c1902c",
-    "url": "/static/js/2.ea853bc1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.64f69a26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72c6d68e0956ee3ca5f6",
-    "url": "/static/js/main.76f6bdbc.chunk.js"
+    "revision": "083b4bd0a24311f650b9",
+    "url": "/static/js/main.b6215c69.chunk.js"
   },
   {
     "revision": "41dbaef3e54e18127534",
     "url": "/static/js/runtime-main.f4565991.js"
-  },
-  {
-    "revision": "2e68aeef03b57c1f84ca4a275ad38b97",
-    "url": "/static/media/Whitepaper_ROASc-Draft-4.2e68aeef.pdf"
   },
   {
     "revision": "d91370939bcf4a7910891d113ca26df0",
